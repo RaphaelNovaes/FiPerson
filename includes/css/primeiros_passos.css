@@ -1,0 +1,17 @@
+
+.nome{
+	width: 100%;
+}
+
+.email{
+	margin-left: -26px;
+	width: 540px;
+}
+
+.data-nasc{
+	width: 25%;
+}
+
+.cpf{
+	width: 25%;
+}

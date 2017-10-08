@@ -1,0 +1,36 @@
+.panel-login-geral{
+	width: 25%;
+	margin-left: 38%;
+}
+
+.panel-title-geral{
+	text-align: center;
+}
+
+.btn-group-geral{
+	margin-left: 5%;
+}
+
+.btn-group-geral-right{
+	margin-top: 10px;
+	margin-right: 5%;
+	float: right;
+}
+
+.panel-footer-geral{
+	text-align: right;
+}
+
+.panel-stp1-geral{
+	width: 50%;
+	margin-left: 26%;
+}
+
+.alert-danger{
+	height: 30px;
+	padding: 5px;
+}
+
+.close{
+	margin-top: -2px;
+}

@@ -1,0 +1,136 @@
+#container{
+	margin: 10px;
+}
+
+#add_val {
+	width: 15%;
+	background-color: #E8E8E8;
+	opacity: 0.8;
+	padding: 10px;
+	min-height: 350px;
+	text-align: center;
+	float: left;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.field-add{
+	margin-left: 10px;
+	width: 180px;
+	margin-top: 10px;
+}
+
+.field-add-data{
+	margin-left: 10px;
+	width: 140px !important;
+	margin-top: 10px ;
+}
+
+.field-add-btn{
+	width: 180px;
+	margin-left: -5px;
+	margin-top: 10px;
+}
+
+.icon-dt{
+	top:2px;
+}
+
+.div-icon-dt{
+  height: 34px;
+  margin-top: 10px;
+  position: relative;
+  float: right;
+  margin-left: 0px;
+  width: 40px;
+}
+
+#cont-panels{
+	margin: 0px 10px 10px 17%;
+	position: absolute;
+	width: 80%;
+}
+
+.panels{
+	width: 90%;
+	float: left;
+	margin: 0px 25px 25px 25px;
+	min-height: 350px;
+	border:1px solid #E8E8E8;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.title-panel{
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border:1px solid #E8E8E8;
+	background-color: #E8E8E8;
+	opacity: 0.8;
+	height: 40px;
+	padding: 10px;
+	
+}
+
+.title-panel > form{
+	float: right;
+	margin-top: -20px;
+}
+
+.table-transc{
+	width: 99%;
+	margin: 5px;
+	text-align: center;
+	border-collapse: separate; 
+	border-spacing: 10px 0px;
+}
+
+.table-transc hr{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.error-add{
+	margin-top: 20px;
+	font-size: 12px;
+	width: 100%;
+	margin-left: 1px;
+	border:1px dashed red;
+}
+
+.alert-danger{
+	height: auto;
+}
+
+#flSalario{
+	margin-left: -20px !important;
+	margin-top: 15px !important;
+}
+
+#flVale{
+	margin-left: -50px !important;
+	margin-top: 15px !important;
+}
+
+#flParcelas{
+	margin-left: -3px !important;
+	margin-top: 15px !important;
+}
+
+.field-Tdata{
+	margin-left: 10px;
+	width: 85px !important;
+	margin-top: 12px ;
+}
